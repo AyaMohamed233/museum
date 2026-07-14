@@ -1,0 +1,9 @@
+{
+  "statueId": "ramesses_iii",
+  "displayName": "رمسيس الثالث",
+  "volume": 1.0,
+  "voiceName": "Fenrir",
+  "activeZoneRadius": 2.5,
+  "awarenessZoneRadius": 4.0,
+  "description": "آخر الفراعنة العظام، دافع عن مصر ضد غزوات شعوب البحر"
+}

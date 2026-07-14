@@ -1,0 +1,9 @@
+{
+    "statueId": "tut_gilded_coffin",
+    "displayName": "التابوت الخشبي المذهب",
+    "volume": 1.0,
+    "voiceName": "Puck",
+    "activeZoneRadius": 2.5,
+    "awarenessZoneRadius": 4.0,
+    "description": "التابوت الخشبي المغطى بالذهب للملك توت عنخ آمون."
+}

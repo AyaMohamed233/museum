@@ -1,0 +1,16 @@
+{
+  "name": "gemini-voice-gateway",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "WebSocket Gateway for Unity to Gemini Live Audio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.30.0",
+    "ws": "^8.18.0",
+    "dotenv": "^16.4.5"
+  }
+}

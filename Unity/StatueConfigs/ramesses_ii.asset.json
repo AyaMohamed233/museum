@@ -1,0 +1,9 @@
+{
+  "statueId": "ramesses_ii",
+  "displayName": "رمسيس الثاني",
+  "volume": 1.0,
+  "voiceName": "Charon",
+  "activeZoneRadius": 2.5,
+  "awarenessZoneRadius": 4.0,
+  "description": "أحد أعظم فراعنة مصر القديمة، حكم لمدة 66 عاماً وبنى معابد أبو سمبل الشهيرة"
+}

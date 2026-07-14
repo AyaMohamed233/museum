@@ -1,0 +1,9 @@
+{
+    "statueId": "tut_wooden_chair",
+    "displayName": "الكرسي الخشبي",
+    "volume": 1.0,
+    "voiceName": "Puck",
+    "activeZoneRadius": 2.5,
+    "awarenessZoneRadius": 4.0,
+    "description": "الكرسي الخشبي البسيط والمميز للملك توت عنخ آمون."
+}

@@ -1,0 +1,9 @@
+{
+    "statueId": "tut_golden_throne",
+    "displayName": "الكرسي الذهبي",
+    "volume": 1.0,
+    "voiceName": "Puck",
+    "activeZoneRadius": 2.5,
+    "awarenessZoneRadius": 4.0,
+    "description": "عرش الملك توت عنخ آمون الذهبي بمقابض على شكل أسد."
+}

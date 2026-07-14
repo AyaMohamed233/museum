@@ -1,0 +1,9 @@
+{
+  "statueId": "amenhotep_iii",
+  "displayName": "أمنحتب الثالث",
+  "volume": 1.0,
+  "voiceName": "Puck",
+  "activeZoneRadius": 2.5,
+  "awarenessZoneRadius": 4.0,
+  "description": "فرعون العصر الذهبي، بنى معبد الأقصر وتمثالي ممنون الشهيرين"
+}

@@ -1,0 +1,9 @@
+{
+  "statueId": "serapis",
+  "displayName": "سيرابيس",
+  "volume": 1.0,
+  "voiceName": "Enceladus",
+  "activeZoneRadius": 2.5,
+  "awarenessZoneRadius": 4.0,
+  "description": "إله يوناني-مصري، دمج بين أوزيريس وأبيس، عُبد في العصر البطلمي"
+}

@@ -1,0 +1,9 @@
+{
+    "statueId": "tut_nefertem_head",
+    "displayName": "رأس نفرتم",
+    "volume": 1.0,
+    "voiceName": "Puck",
+    "activeZoneRadius": 2.5,
+    "awarenessZoneRadius": 4.0,
+    "description": "رأس توت عنخ آمون يخرج من زهرة اللوتس كإله الشمس."
+}

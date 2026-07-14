@@ -1,0 +1,9 @@
+{
+  "statueId": "sekhmet",
+  "displayName": "سخمت",
+  "volume": 1.0,
+  "voiceName": "Kore",
+  "activeZoneRadius": 3.5,
+  "awarenessZoneRadius": 5.0,
+  "description": "إلهة الحرب والشفاء، برأس لبؤة، حامية الفراعنة في المعارك"
+}

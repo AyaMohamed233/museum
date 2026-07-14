@@ -1,0 +1,13 @@
+{
+  "port": 5000,
+  "audio": {
+    "inputSampleRate": 16000,
+    "outputSampleRate": 24000,
+    "channels": 1,
+    "bitDepth": 16
+  },
+  "gemini": {
+    "model": "gemini-2.5-flash-native-audio-preview-09-2025",
+    "voiceName": "Charon"
+  }
+}
