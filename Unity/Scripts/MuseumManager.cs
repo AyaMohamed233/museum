@@ -11,7 +11,7 @@ public class MuseumManager : MonoBehaviour
     public static MuseumManager Instance { get; private set; }
     
     [Header("Server Settings")]
-    [SerializeField] private string serverUrl = "ws://localhost:8080";
+    [SerializeField] private string serverUrl = "wss://museum-psf1.onrender.com";
     [SerializeField] private string authToken = "egyptian-guide-2025"; // C5: shared secret
     
     [Header("Audio Components")]
